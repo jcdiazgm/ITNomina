@@ -1,0 +1,12 @@
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\bin\Debug\netstandard2.0\ITNomina.Infraestructura.deps.json
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\bin\Debug\netstandard2.0\ITNomina.Infraestructura.dll
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\bin\Debug\netstandard2.0\ITNomina.Infraestructura.pdb
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\bin\Debug\netstandard2.0\ITNomina.Core.dll
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\bin\Debug\netstandard2.0\ITNomina.Core.pdb
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\obj\Debug\netstandard2.0\ITNomina.Infraestructura.csprojAssemblyReference.cache
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\obj\Debug\netstandard2.0\ITNomina.Infraestructura.AssemblyInfoInputs.cache
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\obj\Debug\netstandard2.0\ITNomina.Infraestructura.AssemblyInfo.cs
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\obj\Debug\netstandard2.0\ITNomina.Infraestructura.csproj.CopyComplete
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\obj\Debug\netstandard2.0\ITNomina.Infraestructura.dll
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\obj\Debug\netstandard2.0\ITNomina.Infraestructura.pdb
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Infraestructura\obj\Debug\netstandard2.0\ITNomina.Infraestructura.csproj.CoreCompileInputs.cache

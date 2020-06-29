@@ -1,0 +1,9 @@
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\bin\Debug\netstandard2.0\ITNomina.Core.deps.json
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\bin\Debug\netstandard2.0\ITNomina.Core.dll
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\bin\Debug\netstandard2.0\ITNomina.Core.pdb
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\obj\Debug\netstandard2.0\ITNomina.Core.csprojAssemblyReference.cache
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\obj\Debug\netstandard2.0\ITNomina.Core.AssemblyInfoInputs.cache
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\obj\Debug\netstandard2.0\ITNomina.Core.AssemblyInfo.cs
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\obj\Debug\netstandard2.0\ITNomina.Core.csproj.CoreCompileInputs.cache
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\obj\Debug\netstandard2.0\ITNomina.Core.dll
+E:\Trabajo\VS 2019\ITNomina\ITNomina.Core\obj\Debug\netstandard2.0\ITNomina.Core.pdb

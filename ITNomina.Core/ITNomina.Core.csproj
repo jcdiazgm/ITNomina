@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Interfaces\ICargoRepositorio.cs" />
+    <Compile Remove="Interfaces\ICentrosCostoRepositorio.cs" />
+    <Compile Remove="Interfaces\ICiudadRepositorio.cs" />
+    <Compile Remove="Interfaces\IConceptosNominaRepositorio.cs" />
+    <Compile Remove="Interfaces\IContactoCiaRepositorio.cs" />
+    <Compile Remove="Interfaces\IEmpleadoRepositorio.cs" />
+    <Compile Remove="Interfaces\IEntidadRepositorio.cs" />
+    <Compile Remove="Interfaces\IFactoresNominaRepositorio.cs" />
+    <Compile Remove="Interfaces\INivelOcupacionalRepositorio.cs" />
+    <Compile Remove="Interfaces\INovedadRepositorio.cs" />
+    <Compile Remove="Interfaces\IParametroAppRepositorio.cs" />
+    <Compile Remove="Interfaces\ISexoRepositorio.cs" />
+    <Compile Remove="Interfaces\ITConceptosNominaRepositorio.cs" />
+    <Compile Remove="Interfaces\ITContratosRepositorio.cs" />
+    <Compile Remove="Interfaces\ITDetalleRepositorio.cs" />
+    <Compile Remove="Interfaces\ITDocumentoRepositorio.cs" />
+    <Compile Remove="Interfaces\ITEntidadRepositorio.cs" />
+    <Compile Remove="Interfaces\ITIndiceRepositorio.cs" />
+    <Compile Remove="Interfaces\ITNominaRepositorio.cs" />
+    <Compile Remove="Interfaces\ITTurnoRepositorio.cs" />
+    <Compile Remove="Interfaces\ITurnoEmpleadoRepositorio.cs" />
+    <Compile Remove="Interfaces\ITurnoRepositorio.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Enumeraciones\" />
+    <Folder Include="Excepciones\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>
